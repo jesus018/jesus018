@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1 align="center">Hola, soy jesus018</h1>
+<img src="https://imgur.com/B2ingQu.png">
+<h2>Sobre mi</h2>
+<p>Cuento con conocimientos en:</p>
+<ul>
+  <li>html</li>
+  <li>css</li>
+  <li>javascript</li>
+</ul>
 
 <!--
 **jesus018/jesus018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Última edición el: 17/01/2025
